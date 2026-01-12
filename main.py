@@ -6,4 +6,4 @@ class Dummy:
         pass
 
     def add(self, x, y):
-        return x + 2*y
+        return x + y
